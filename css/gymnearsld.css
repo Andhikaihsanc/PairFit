@@ -36,7 +36,7 @@ nav ul {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    background-image: url(background.png);
+    background-image: url(/images/bggymnearby.png);
     background-size: 100%;
     backdrop-filter: brightness(20%);
 }
@@ -65,19 +65,19 @@ nav ul {
 
 .card-left1 {
     width: 35%;
-    background-image: url(background1.jpg);
+    background-image: url(/images/fitnesszone.jpg);
     background-size: 150%;
 }
 
 .card-left2 {
     width: 35%;
-    background-image: url(background2.jpg);
+    background-image: url(/images/profitgym.jpg);
     background-size: 150%;
 }
 
 .card-left3 {
     width: 35%;
-    background-image: url(background3.jpg);
+    background-image: url(/images/diamondgym.jpg);
     background-size: 150%;
 }
 
